@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SystemUITest</string>
+    <!--staging-->
+    <string name="app_name_staging">SystemUITest(staging)</string>
+</resources>
